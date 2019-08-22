@@ -1,0 +1,13 @@
+{
+  "name": "spellScrapper",
+  "version": "1.0.0",
+  "description": "Web scrapper ",
+  "main": "app.js",
+  "author": "marcelojcs <marcelojcs@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "del": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^1.19.0"
+  }
+}
